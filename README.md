@@ -73,11 +73,7 @@ The fused representation is then passed to the classification head for binary pr
 
 ## 🔬 Dataset
 
-The project uses the **HAM10000 (Human Against Machine with 10000 training images)** dataset for skin lesion classification.
-
-The dataset contains dermoscopic images representing different categories of skin lesions.
-
-For the binary classification setting, the target task focuses on distinguishing:
+ISIC 2019 & 2020 Melanoma Dataset
 
 * **Melanoma — Positive Class**
 * **Non-Melanoma — Negative Class**
